@@ -25,3 +25,4 @@ D:\Нисковский\Sign In\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\Нисковский\Sign In\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
 D:\Нисковский\Sign In\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Kubiki.resources
 D:\Нисковский\Sign In\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KrestikiNoliki.resources
+D:\Нисковский\Sign In\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ForgotPassword.resources

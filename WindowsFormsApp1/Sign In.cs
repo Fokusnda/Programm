@@ -104,6 +104,13 @@ namespace WindowsFormsApp1
             this.Hide();
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form FP = new ForgotPassword();
+            FP.Show();
+            this.Hide();
+        }
+
 
     }
 }
