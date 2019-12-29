@@ -44,7 +44,7 @@ namespace WindowsFormsApp1
             if (IsFounded)
             {
                 StreamWriter swInfo = new StreamWriter("Users/UsersInfo.txt", true);
-                swInfo.WriteLine(UserLogin + "," + UserPassword + "," + UserEmail + ",u");
+                swInfo.WriteLine(UserLogin + "," + UserPassword + "," + UserEmail + ",u,False");
                 swInfo.Close();
                 MessageBox.Show("Регистрация прошла успешно", "Успешно", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Thread.Sleep(1000);

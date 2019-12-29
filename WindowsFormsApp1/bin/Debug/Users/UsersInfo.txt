@@ -1,2 +1,3 @@
-Admin,admin,admin@admin.admin,a
-Fokus,Fokus,geliosnda@gmail.com,u
+admin,admin,admin@admin.admin,a,ub
+fokus,fokus,geliosnda@gmail.com,u,ub
+user,12345l,asdf@mail.ru,u,b
